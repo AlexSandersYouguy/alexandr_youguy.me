@@ -1,39 +1,30 @@
-<h1 align="center">👋 Hello! I'm BaggerFast </h1>
+<h1 align="center">👋 Hello! I'm Александр Югай (Alexandr Youguy) </h1>
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="assets/devcomp.gif" alt="dev"/>
 </p>
 
 ## About me
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/BaggerFast)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/baggerfast)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/lep3ha)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/AlexSandersYouguy)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/александр-югай-3a111539b/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/573918574599733250)
 
-I'm a backend developer from Russia, working at [@Elixor](https://github.com/ElixorTeam).
+I'm a fullstack developer/data engineer from Russia.
 
-I'm interested in web development and games. Also, I hate JavaScript💀
+I'm interested in:
+      web development[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
+      games[![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#)
+      analytics[![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff)](#)[![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)](#)[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+      traiding[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)](#).
 
-## 🙏 Visit my website
-[BaggerFast's docs](https://baggerfast.github.io/BaggerFast) - Here I post helpful IT manuals. They can be used as references
-
-<details align="left">
-  <summary><h2><b>📚 My stack</b></h2></summary>
-  <p>
-    <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,py,java,html,css,postgres,sqlite&perline=7" />
-    <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=unity,gradle,spring,linux,hibernate,githubactions,django,docker,git,bootstrap&perline=7" />
-    <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=visualstudio,idea,neovim,postman,ultimate&perline=7" />
-    <br>
-  </p>
-</details>
-
-
-<details align="left">
-  <summary><h2><b>⭐GitHub stats</b></h2></summary>
-  <p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaggerFast&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
-   <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=BaggerFast&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
-  </p>
-</details>
+<summary><h2><b>📚 My stack</b></h2></summary>
+<p align="center">
+  <h3>Langs</h3>
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts" />
+  <h3>Frameworks / Tools</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,react,qt,linux,django,flask,postgres,redis,docker,git,bootstrap&theme=light" />
+  <h3>Software</h3>
+  <img src="https://skillicons.dev/icons?i=vscode,cmake,figma,postman&perline=7" />
+  <br>
+</p>
