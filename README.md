@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'm Александр Югай (Alexandr Youguy) </h1>
+<h1 align="center">👋 Hello! I'm Александр Югай </h1>
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
@@ -28,13 +28,13 @@
   📈 **Traiding**
     [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)](#).
 
-<summary><h2><b>📚 My stack</b></h2></summary>
+<summary><h2 align="center"><b>📚 My stack</b></h2></summary>
 <p align="center">
-  <h3>Langs</h3>
+  <h3 align="center">Langs</h3>
   <p align="center"><img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts"/></p>
-  <h3>Frameworks / Tools</h3>
+  <h3 align="center">Frameworks / Tools</h3>
   <p align="center"><img src="https://skillicons.dev/icons?i=html,css,react,qt,linux,django,flask,postgres,redis,docker,git,bootstrap&theme=dark" /></p>
-  <h3>Software</h3>
+  <h3 align="center">Software</h3>
   <p align="center"><img src="https://skillicons.dev/icons?i=vscode,cmake,figma,postman&perline=7" /></p>
   <br>
 </p>
