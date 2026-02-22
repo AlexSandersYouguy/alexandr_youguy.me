@@ -13,15 +13,15 @@
 ### I'm a fullstack developer/data engineer from Russia.
 
 **I'm interested in:**
-      🌐 **Web Development**
+      - 🌐 **Web Development**
         [![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
-      🎮 **Games**
+      - 🎮 **Games**
         [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#)
-      📊 **Analytics**
+      - 📊 **Analytics**
         [![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff)](#)
         [![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)](#)
         [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
-      📈 **Traiding**
+      - 📈 **Traiding**
         [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)](#).
 
 <summary><h2><b>📚 My stack</b></h2></summary>
